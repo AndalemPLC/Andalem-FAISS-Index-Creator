@@ -1,0 +1,6 @@
+faiss
+faiss-cpu
+json
+numpy
+torch
+transformers
